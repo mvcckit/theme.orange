@@ -1,0 +1,122 @@
+/* 
+   #alert
+   ========================================================================== */
+
+/**
+ * The alert object creates simple alert messages.
+ *
+ * Usage:
+ *
+ * <p class="o-alert"></p>
+ */
+
+.o-alert {
+	background-color: #D50F04;
+}
+/* 
+   #label
+   ========================================================================== */
+
+/**
+ * The alert object creates simple inline labels.
+ *
+ * Usage:
+ *
+ * <span class="o-label"></span>
+ */
+
+.o-label {
+ 	background-color: #D4520F;
+}
+
+/* 
+   #btn
+   ========================================================================== */
+
+/**
+ * The btn object creates flat buttons for links or inputs.
+ *
+ * Usage:
+ *
+ * <input type="submit" class="o-btn"/> 
+ */
+ 
+.o-btn {
+    background-color: #F27435;
+}
+
+    .o-btn:hover {
+        background: #F38148;
+    }
+
+    .o-btn:active {
+        background: #F16722;
+    }
+
+/* 
+   #sect-header
+   ========================================================================== */
+
+/**
+ * The sect-header component creates the header section.
+ *
+ * Usage:
+ *
+ * <div class="o-sect c-sect-header u-bg-header">
+ *     <div class="o-sect__body">
+ *
+ *     </div>
+ * </div>
+ */
+
+.c-sect-header {
+ 	background-color: #D4520F;
+}
+/* 
+   #sect-banner
+   ========================================================================== */
+
+/**
+ * The sect-banner component creates the banner section.
+ *
+ * Usage:
+ *
+ * <div class="o-sect c-sect-banner">
+ *     <div class="o-sect__body">
+ *
+ *     </div>
+ * </div>
+ */
+
+.c-sect-banner {
+ 	background-color: #F27435;
+}
+/* 
+   #btn-outline
+   ========================================================================== */
+/**
+ * The btn-outline component creates an outline button.
+ *
+ * Usage:
+ *
+ * <input type="submit" class="o-btn c-btn-outline"/>
+ */
+
+.c-btn-outline, 
+.c-btn-outline:hover {
+    background: transparent;
+}
+
+	.c-btn-outline:active {
+	    border-color: transparent;
+	    background-color: #F27435;
+	}
+/* 
+   #colors
+   ========================================================================== */
+
+.u-bg-header 	{ background: #D4520F; }
+.u-bg-banner 	{ background: #F27435; }
+.u-bg-accent 	{ background: #F2F2F2; }
+.u-fg-header 	{ color: #fff; }
+.u-fg-banner 	{ color: #F27435; }

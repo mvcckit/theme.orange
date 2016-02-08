@@ -1,0 +1,20 @@
+/* 
+   #btn-outline
+   ========================================================================== */
+/**
+ * The btn-outline component creates an outline button.
+ *
+ * Usage:
+ *
+ * <input type="submit" class="o-btn c-btn-outline"/>
+ */
+
+.c-btn-outline, 
+.c-btn-outline:hover {
+    background: transparent;
+}
+
+	.c-btn-outline:active {
+	    border-color: transparent;
+	    background-color: $bg-btn-normal;
+	}

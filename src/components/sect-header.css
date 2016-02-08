@@ -1,0 +1,19 @@
+/* 
+   #sect-header
+   ========================================================================== */
+
+/**
+ * The sect-header component creates the header section.
+ *
+ * Usage:
+ *
+ * <div class="o-sect c-sect-header u-bg-header">
+ *     <div class="o-sect__body">
+ *
+ *     </div>
+ * </div>
+ */
+
+.c-sect-header {
+ 	background-color: $bg-header;
+}

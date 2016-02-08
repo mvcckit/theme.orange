@@ -1,0 +1,15 @@
+/* 
+   #alert
+   ========================================================================== */
+
+/**
+ * The alert object creates simple alert messages.
+ *
+ * Usage:
+ *
+ * <p class="o-alert"></p>
+ */
+
+.o-alert {
+	background-color: $bg-alert;
+}

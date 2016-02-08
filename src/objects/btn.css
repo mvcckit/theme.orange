@@ -1,0 +1,23 @@
+/* 
+   #btn
+   ========================================================================== */
+
+/**
+ * The btn object creates flat buttons for links or inputs.
+ *
+ * Usage:
+ *
+ * <input type="submit" class="o-btn"/> 
+ */
+ 
+.o-btn {
+    background-color: $bg-btn-normal;
+}
+
+    .o-btn:hover {
+        background: $bg-btn-hover;
+    }
+
+    .o-btn:active {
+        background: $bg-btn-active;
+    }

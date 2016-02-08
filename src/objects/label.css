@@ -1,0 +1,15 @@
+/* 
+   #label
+   ========================================================================== */
+
+/**
+ * The alert object creates simple inline labels.
+ *
+ * Usage:
+ *
+ * <span class="o-label"></span>
+ */
+
+.o-label {
+ 	background-color: $bg-label;
+}
