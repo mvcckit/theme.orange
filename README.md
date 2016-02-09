@@ -2,7 +2,7 @@
 
 # mvcc.css
 
-The orange theme used for internal Moraine Valley Community College web applications. It is still under development.
+The orange theme used for internal Moraine Valley Community College web applications. 
 
 ## Building theme.css
 
